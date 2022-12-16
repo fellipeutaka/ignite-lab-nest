@@ -41,7 +41,7 @@ A 100% online, free and hands-on event for those who enjoy TypeScript Stack and 
 
 ## 💻 Project
 
-Creating my first scalable microservice with SOLID Principles, using Node.js, TypeScript, Nest.js, Prisma and Vitest.
+Creating my first scalable microservice with SOLID Principles, using Node.js, TypeScript, Nest.js, Prisma and Jest.
 
 <h1 align="center">
     <img alt="ERD" title="ERD" src=".github/ERD.svg" width="500px" />
@@ -54,7 +54,7 @@ This project was developed with the following technologies:
 - [TypeScript][ts]
 - [Node.js][node]
 - [Nest.js][nest]
-- [Vitest][vitest]
+- [Jest][jest]
 - [Prisma][prisma]
 
 ## ℹ️ How To Use
@@ -98,7 +98,7 @@ Made with ♥ by Fellipe Utaka 👋 [Get in touch!](https://www.linkedin.com/in/
 [ts]: https://www.typescriptlang.org/
 [node]: https://nodejs.org/
 [nest]: https://nestjs.com/
-[vitest]: https://vitest.dev/
+[jest]: https://jestjs.io/
 [prisma]: https://www.prisma.io/
 [git]: https://git-scm.com
 [yarn]: https://yarnpkg.com/
