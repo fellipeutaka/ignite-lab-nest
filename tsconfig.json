@@ -16,10 +16,19 @@
     "strict": true,
     "strictNullChecks": true,
     "strictBindCallApply": false,
+    "strictPropertyInitialization": false,
     "resolveJsonModule": true,
     "forceConsistentCasingInFileNames": false,
     "noFallthroughCasesInSwitch": false,
-    "strictPropertyInitialization": false,
-    "baseUrl": "."
+    "baseUrl": ".",
+    "paths": {
+      "@ignite-lab-nest/entities/*": ["./src/app/entities/*"],
+      "@ignite-lab-nest/repositories/*": ["./src/app/repositories/*"],
+      "@ignite-lab-nest/use-cases/*": ["./src/app/use-cases/*"],
+      "@ignite-lab-nest/utils/*": ["./src/utils/*"],
+      "@ignite-lab-nest/in-memory-repositories/*": [
+        "./test/in-memory-repositories/*"
+      ]
+    }
   }
 }
