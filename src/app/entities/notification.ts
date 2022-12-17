@@ -1,5 +1,7 @@
 import { randomUUID } from "node:crypto";
-import { Replace } from "src/utils/Replace";
+
+import type { Replace } from "@ignite-lab-nest/utils/Replace";
+
 import { Content } from "./content";
 
 export type NotificationProps = {

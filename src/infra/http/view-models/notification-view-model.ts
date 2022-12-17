@@ -1,4 +1,4 @@
-import { Notification } from "@ignite-lab-nest/entities/notification";
+import { Notification } from "@ignite-lab-nest/app/entities/notification";
 
 export class NotificationViewModel {
   static toHTTP(notification: Notification) {

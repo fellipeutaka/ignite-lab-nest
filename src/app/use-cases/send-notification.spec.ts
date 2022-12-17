@@ -1,6 +1,8 @@
-import { InMemoryNotificationsRepository } from "@ignite-lab-nest/in-memory-repositories/notifications-repository";
-import { SendNotification } from "./send-notification";
 import { randomUUID } from "node:crypto";
+
+import { InMemoryNotificationsRepository } from "@ignite-lab-nest/test/in-memory-repositories/notifications-repository";
+
+import { SendNotification } from "./send-notification";
 
 describe("Send notification", () => {
   it("should be able to send a notification", async () => {

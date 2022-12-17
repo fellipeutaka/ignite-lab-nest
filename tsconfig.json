@@ -22,13 +22,10 @@
     "noFallthroughCasesInSwitch": false,
     "baseUrl": ".",
     "paths": {
-      "@ignite-lab-nest/entities/*": ["./src/app/entities/*"],
-      "@ignite-lab-nest/repositories/*": ["./src/app/repositories/*"],
-      "@ignite-lab-nest/use-cases/*": ["./src/app/use-cases/*"],
+      "@ignite-lab-nest/app/*": ["./src/app/*"],
+      "@ignite-lab-nest/infra/*": ["./src/infra/*"],
       "@ignite-lab-nest/utils/*": ["./src/utils/*"],
-      "@ignite-lab-nest/in-memory-repositories/*": [
-        "./test/in-memory-repositories/*"
-      ]
+      "@ignite-lab-nest/test/*": ["./test/*"]
     }
   }
 }

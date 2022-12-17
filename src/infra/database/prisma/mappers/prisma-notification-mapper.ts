@@ -1,6 +1,7 @@
-import { Content } from "@ignite-lab-nest/entities/content";
-import { Notification } from "@ignite-lab-nest/entities/notification";
 import { Notification as RawNotification } from "@prisma/client";
+
+import { Content } from "@ignite-lab-nest/app/entities/content";
+import { Notification } from "@ignite-lab-nest/app/entities/notification";
 
 export class PrismaNotificationMapper {
   static toPrisma(notification: Notification) {

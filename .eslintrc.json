@@ -4,13 +4,28 @@
     "node": true
   },
   "extends": ["standard-with-typescript", "prettier"],
-  "plugins": ["prettier"],
+  "plugins": ["import-helpers", "prettier"],
   "parserOptions": {
     "project": "./tsconfig.json",
     "ecmaVersion": "latest",
     "sourceType": "module"
   },
   "rules": {
+    "import-helpers/order-imports": [
+      "warn",
+      {
+        "newlinesBetween": "always",
+        "groups": [
+          "module",
+          "/^@ignite-lab-nest/",
+          ["parent", "sibling", "index"]
+        ],
+        "alphabetize": {
+          "order": "asc",
+          "ignoreCase": true
+        }
+      }
+    ],
     "quotes": ["warn", "double"],
     "semi": ["warn", "always"],
     "arrow-parens": ["warn", "always"],

@@ -1,5 +1,6 @@
-import { NotificationsRepository } from "@ignite-lab-nest/repositories/notifications-repository";
 import { Module } from "@nestjs/common";
+
+import { NotificationsRepository } from "@ignite-lab-nest/app/repositories/notifications-repository";
 
 import { PrismaService } from "./prisma/prisma.service";
 import { PrismaNotificationsRepository } from "./prisma/repositories/prisma-notifications-repository";
