@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ignite logo" title="#iglab" src=".github/ignite.svg" width="250px" />
+  <img alt="Ignite logo" title="#iglab" src=".github/ignite.svg" width="250px" />
 </h1>
 
 <h4 align="center"> 
@@ -9,19 +9,19 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/fellipeutaka/ignite-lab-nest">
 
 <a href="https://www.linkedin.com/in/fellipeutaka/">
-    <img alt="Made by Fellipe Utaka" src="https://img.shields.io/badge/made%20by-Fellipe%20Utaka-%2304D361">
-  </a>
+  <img alt="Made by Fellipe Utaka" src="https://img.shields.io/badge/made%20by-Fellipe%20Utaka-%2304D361">
+</a>
 
-<a aria-label="In Progress" href="https://lp.rocketseat.com.br/ignite">
-    <img src="https://img.shields.io/badge/Ignite-In%20Progress-yellow?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
-  </a>
+<a aria-label="Completed" href="https://lp.rocketseat.com.br/ignite">
+    <img src="https://img.shields.io/badge/Ignite-done-brightgreen?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
+</a>
 
 <a href="https://github.com/fellipeutaka/ignite-lab-nest/commits">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/fellipeutaka/ignite-lab-nest">
-  </a>
+</a>
 
 <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/fellipeutaka/ignite-lab-nest/stargazers">
+  <a href="https://github.com/fellipeutaka/ignite-lab-nest/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/fellipeutaka/ignite-lab-nest?style=social">
   </a>
 </p>
@@ -42,6 +42,8 @@ A 100% online, free and hands-on event for those who enjoy TypeScript Stack and 
 ## 💻 Project
 
 Creating my first scalable microservice with SOLID Principles, using Node.js, TypeScript, Nest.js, Prisma and Jest.
+
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](<https://insomnia.rest/run/?label=Notifications%20Service%20(Ignite%20Lab)&uri=https%3A%2F%2Fraw.githubusercontent.com%2Ffellipeutaka%2Fignite-lab-nest%2Fmain%2FInsomnia.json>)
 
 <h1 align="center">
     <img alt="ERD" title="ERD" src=".github/ERD.svg" width="500px" />
