@@ -2,8 +2,8 @@
   <img alt="Ignite logo" title="#iglab" src=".github/ignite.svg" width="250px" />
 </h1>
 
-<h4 align="center"> 
-	🚧 Ignite Lab - Node.js 👩‍💻🚀 🚧
+<h1 align="center"> 
+	Ignite Lab - Node.js
 </h4>
 <p align="center">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/fellipeutaka/ignite-lab-nest">
